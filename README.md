@@ -37,6 +37,7 @@ Input:
 #### Question 4: Write a JavaScript program that uses a while loop to reverse a given number.
 Example:
   Input: 12345
+  
   Expected Output: 54321
 
 
